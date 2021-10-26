@@ -1,1 +1,8 @@
-<a href="https://app.daily.dev/AliChavoshi"><img src="https://api.daily.dev/devcards/a46c66858fb549cf8f451a3bf7f8ea90.png?r=81y" width="400" alt="Ali Chavoshi's Dev Card"/></a>
+![code](https://user-images.githubusercontent.com/75223567/136923228-fee164da-c083-4d60-851a-1f2a4fb80c13.gif)
+
+### Hi there 👋
+ 
+- 🔭 I’m Fullstack Developer!
+- 🌱 I’m currently learning Web API and Angular
+- 👯 I’m looking to collaborate on Open Source Porjects
+- 📫 How to reach me: AliChavoshii1372@gmail.com

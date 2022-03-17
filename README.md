@@ -41,20 +41,9 @@
         <img height="64px" src="http://www.vahabian.com/github/images/c-sharp.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
-      </td>
-      <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <span><strong>.NetCore</strong></span><br><br><br>
         <img height="64px" src="http://www.vahabian.com/github/images/net_core.svg">
@@ -62,14 +51,6 @@
       <td width="25%" align="center">
         <span><strong>SqlServer</strong></span><br><br><br>
         <img height="64px" src="http://www.vahabian.com/github/images/sql-server.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Elasticsearch</strong></span><br><br><br>
-        <img height="64px" src="http://www.vahabian.com/github/images/elasticsearch.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Docker</strong></span><br><br><br>
-        <img height="64px" src="http://www.vahabian.com/github/images/docker.svg">
       </td>
     </tr>
   </tbody>

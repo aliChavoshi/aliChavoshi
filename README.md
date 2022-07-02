@@ -1,64 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ali Chavoshi</h1>
-
-![code](https://user-images.githubusercontent.com/75223567/136923228-fee164da-c083-4d60-851a-1f2a4fb80c13.gif)
-
-### Key Skills
-
-- 🔭 I’m Fullstack Developer!
-- 🌱 I’m currently learning Web API and Angular
-- 👯 I’m looking to collaborate on Open Source Porjects
-- 📫 How to reach me: AliChavoshii1372@gmail.com
-- 🔭 I Am Virtual Teacher in site : https://www.daneshjooyar.com/teacher/alichavoshi/
-- 👯 My Website is : http://alichavoshi.gigfa.com/
+# 💫 About Me:
+🔭 I’m a Fullstack Developer!<br>🌱 I’m currently learning Web API and Angular<br>👯 I’m looking to collaborate on Open Source projects<br>📫 How to reach me: AliChavoshii1372@gmail.com<br>🔭 I Am Virtual Teacher on site: https://www.daneshjooyar.com/teacher/alichavoshi/<br>👯 My Website is: http://alichavoshi.gigfa.com/
 
 
-### My Tack Stack
-<table align="center">
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Angular</strong>
-        </span><br><br><br>
-        <img height="64px" src="http://www.vahabian.com/github/images/angular.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>c#</strong>
-        </span><br><br><br>
-        <img height="64px" src="http://www.vahabian.com/github/images/c-sharp.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>.NetCore</strong></span><br><br><br>
-        <img height="64px" src="http://www.vahabian.com/github/images/net_core.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>SqlServer</strong></span><br><br><br>
-        <img height="64px" src="http://www.vahabian.com/github/images/sql-server.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali__chavoshi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-chavoshi-476551182/) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://www.linkedin.com/in/ali-chavoshi-476551182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miklos-szeles" height="30" width="40" /></a>
-<a href="https://instagram.com/ali__chavoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="szelesmiki" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aliChavoshi&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aliChavoshi&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliChavoshi&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

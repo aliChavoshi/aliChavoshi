@@ -114,11 +114,27 @@ I am a motivated and talented web developer with over 5 years of experience in d
 
 
 ## Recent Blog Posts  
+
+
+### Chat Room  
+Online Chat room with Angular and Web API [GitHub Rep](https://github.com/aliChavoshi/Chat-Learning)  
+  
+
+
+
+### Shop Backend  
+Store website Backend CQRS and Clean Architecture: [GitHub Rep](https://github.com/aliChavoshi/EduShopBackend)  
+  
+
+
+
+### Shop Frontend  
+Store website Client Angular +17 [GitHub Rep](https://github.com/aliChavoshi/EduShopClient)  
   
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+  
 
 <br/>  
 

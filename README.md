@@ -42,6 +42,42 @@
 
 ---
 
+مهارت‌های من
+
+🚀 Frontend
+
+Angular (Material UI)
+
+TypeScript, JavaScript, HTML5, CSS3
+
+Bootstrap, Tailwind CSS
+
+🔧 Backend
+
+ASP.NET Core, C#
+
+Node.js
+
+Clean Architecture, CQRS, DDD
+
+SignalR, WebSockets
+
+🛢️ Database
+
+SQL Server, PostgreSQL
+
+MongoDB, Redis
+
+🛠️ DevOps & Tools
+
+Docker, Kubernetes
+
+Git, GitHub, CI/CD
+
+Nginx, Linux
+
+
+
 ## 💡 پروژه‌های برجسته  
 | پروژه | توضیحات | تکنولوژی‌ها |  
 |-------|---------|-------------|  

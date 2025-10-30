@@ -1,9 +1,7 @@
 # 👋 سلام، من علی چاوشی هستم
 **توسعه‌دهنده فول‌استک | مدرس در سایت دانشجویار | مشاور معماری نرم‌افزار**  
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=30&pause=1000&color=34D399&center=true&vCenter=true&width=435&lines=%D8%AA%D9%88%D8%B3%D8%B9%D9%87+%D8%AF%D9%87%D9%86%D8%AF%D9%87+%D8%B1%DB%8C%D9%85%D9%88%D8%AA+%D8%A7%D8%B2+۲۰۱۶;%D9%85%D8%AF%D8%B1%D8%B3+ASP.NET+Core;%D9%85%D8%B4%D8%A7%D9%88%D8%B1+%D9%85%D8%B9%D9%85%D8%A7%D8%B1%DB%8C+%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1" alt="عنوان پویا" />
-</p>
+
 
 ---
 

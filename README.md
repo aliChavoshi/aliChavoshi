@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E5B,100:1F9C74&height=200&section=header&text=Ali%20Chavoshi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20.NET%20%26%20Angular%20Developer&descAlignY=58&descSize=20" width="100%"/>
-
 <a href="https://alichavoshi.github.io/MyResume">
   <img src="https://img.shields.io/badge/🌐_Resume_%26_Portfolio-alichavoshi.github.io%2FMyResume-0F6E5B?style=for-the-badge" alt="Portfolio"/>
 </a>

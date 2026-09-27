@@ -119,8 +119,8 @@ function activity(t, d) {
 
 /* ==========================================================================
    Builds the animated SVGs used by the profile README (assets/*.svg).
-   Every graphic is generated twice, for GitHub's dark and light themes;
-   README.md picks the right one with <picture> + prefers-color-scheme.
+   Graphics use the light palette (see BUILD below); they sit on their own
+   rounded surface, so they read well on both GitHub themes.
 
    Usage:  node scripts/build-assets.cjs
 
@@ -151,6 +151,10 @@ const THEMES = {
       wire: "rgba(16,42,34,.3)", node: "#ffffff", btn: "#f6f8fa", btnLine: "#d0d7de",
    },
 };
+
+// GitHub profile READMEs do not reliably switch images by theme, so only the
+// light set is built; the dark palette is kept in case that changes.
+const BUILD = [["light", THEMES.light]];
 
 const SANS = "-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif";
 const MONO = "ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace";
@@ -712,7 +716,7 @@ const BUTTONS = {
 };
 
 (async () => {
-for (const [name, t] of Object.entries(THEMES)) {
+for (const [name, t] of BUILD) {
    write(`hero-${name}.svg`, hero(t));
    write(`stats-${name}.svg`, stats(t));
    write(`stack-${name}.svg`, stack(t));
@@ -724,7 +728,7 @@ for (const [name, t] of Object.entries(THEMES)) {
 const token = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
 if (token) {
    const data = await fetchGitHub(process.env.GH_LOGIN || "aliChavoshi", token);
-   for (const [name, t] of Object.entries(THEMES)) write(`activity-${name}.svg`, activity(t, data));
+   for (const [name, t] of BUILD) write(`activity-${name}.svg`, activity(t, data));
 } else {
    console.log("No GITHUB_TOKEN: kept the existing activity graphics.");
 }
